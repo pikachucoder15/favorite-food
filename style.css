@@ -1,0 +1,13 @@
+img{
+width: 450px;
+  height: 400
+}
+body{
+  text-align: center;
+  background-color: aliceblue;
+}
+button{
+  text-align: bottom;
+  padding: 10px;
+background: yellowgreen;
+}
